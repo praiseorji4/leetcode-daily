@@ -24,7 +24,7 @@ Constraints:
 1 <= k <= number of distinct elements in nums.
 
 # Problem
-![Problem Description](./images/problem.png)
+![Problem Description](https://github.com/praiseorji4/leetcode-daily/blob/main/solutions/2025-02/day01/images/problem.png?raw=true)
 
 # Solution
-![Submission Results](./images/submission.png)
+![Submission Results](https://github.com/praiseorji4/leetcode-daily/blob/main/solutions/2025-02/day01/images/submission.png?raw=true)
