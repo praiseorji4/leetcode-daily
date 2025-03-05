@@ -5,4 +5,4 @@
 -
 
 # Solution
-![Submission Results](https://github.com/praiseorji4/leetcode-daily/blob/main/solutions/2025-03/day05images/submission.png?raw=true)
+![Submission Results](https://github.com/praiseorji4/leetcode-daily/blob/main/solutions/2025-03/day05/images/submission.png?raw=true)
